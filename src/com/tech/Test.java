@@ -6,6 +6,9 @@ public class Test {
 		
 		Student s1= new Student();
 		System.out.println("inside test method2");
+		
+		Employee employee= new Employee();
+		employee.setId(1);
 	}
 
 }
