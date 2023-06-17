@@ -8,7 +8,7 @@ public class Test {
 
 	public static void main(String[] args) {
 	
-		System.out.println("111");
+		System.out.println("1111");
 		Configuration cfg = new  Configuration();
 		System.out.println("222");
 		cfg.configure("hibernate-cfg.xml");
